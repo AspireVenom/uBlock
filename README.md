@@ -63,7 +63,7 @@ It is important to note that using a blocker is **NOT** [theft]. Do not fall for
 
 Ads, "unintrusive" or not, are just the visible portion of the privacy-invading means entering your browser when you visit most sites. **uBO's primary goal is to help users neutralize these privacy-invading methods** in a way that welcomes those users who do not wish to use more technical, involved means (such as [uMatrix]).
 
-EasyList, EasyPrivacy, Peter Lowe's Blocklist, Online Malicious URL Blocklist, and uBO's filter lists are default enabled when you install uBO. Many other lists are available to block trackers, analytics, and more. Hosts files are also supported.
+EasyList, EasyPrivacy, Peter Lowe's Blocklist, Online Malicious URL Blocklist, and uBO's filter lists are default enabled when you install uBO. Many other lists are available to block trackers, analytics, and more. Host files are also supported.
 
 Once you install uBO, you may easily unselect any preselected filter lists if you think uBO blocks too much. For reference, Adblock Plus installs with only EasyList, ABP filters, and Acceptable Ads enabled by default.
 
@@ -109,7 +109,7 @@ Do **NOT** use uBO along with other [similarly-purposed blockers][Similarly-Purp
 
 [Manifesto][Manifesto]
 
-Free. Open-source. For users by users. No donations sought.
+Free. Open-source. For users by users. No donations are sought.
 
 Without the preset filter lists, this extension is nothing. If you ever want to contribute something, think about the people working hard to maintain the filter lists you are using, which were made available to use by all for free.
 
